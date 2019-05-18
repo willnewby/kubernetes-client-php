@@ -1,10 +1,10 @@
 {
-    "name": "travisghansen/kubernetes-client-php",
+    "name": "willnewby/kubernetes-client-php",
     "type": "library",
     "description": "Kubernetes API client in PHP supporting REST operations and Watches",
     "license": "Apache-2.0",
     "keywords": ["kubernetes", "api", "client", "k8s", "php", "rest"],
-    "homepage": "https://github.com/travisghansen/kubernetes-client-php/",
+    "homepage": "https://github.com/willnewby/kubernetes-client-php/",
     "authors": [
         {
             "name" : "Travis Glenn Hansen"
